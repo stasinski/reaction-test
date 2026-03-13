@@ -1,0 +1,9 @@
+{
+    "endOfLine": "crlf",
+    "useTabs": true,
+    "singleQuote": true,
+    "jsxSingleQuote": false,
+    "trailingComma": "es5",
+    "printWidth": 110
+  }
+    
